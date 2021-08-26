@@ -123,7 +123,7 @@ export const members: Member[] = [
     name: "Digitalcube Official",
     role: "",
     bio: "",
-    avatarSrc: "https://gravatar.com/avatar/b69de28ebe9d4403b29ec9c9a544ffdc?s=400&d=robohash&r=x",
+    avatarSrc: "/avatars/digitalcube.jpg",
     sources: [
       "https://labworks.digitalcube.jp/feed/atom",
       "https://digitalcube.jp/feed/atom",
