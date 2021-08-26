@@ -19,7 +19,7 @@ export const members: Member[] = [
     name: "Hidetaka Okamoto",
     role: "Developer",
     bio: "AWS Samurai 2017 Alexa Champions",
-    avatarSrc: "/avatars/doe.jpg",
+    avatarSrc: "https://gravatar.com/avatar/1bc313f6d1b9ad1964abe649ccf3bc4f?s=400&d=robohash&r=x",
     sources: [
       "https://qiita.com/motchi0214/feed.atom",
       "https://wp-kyoto.net/feed",
@@ -32,13 +32,13 @@ export const members: Member[] = [
     name: "Wokamoto",
     role: "",
     bio: "",
-    avatarSrc: "/avatars/amanda.jpg",
+    avatarSrc: "https://gravatar.com/avatar/de6bf7edc1c1d23f52ea9fe22870d6a6?s=400&d=robohash&r=x",
     sources: ["https://qiita.com/wokamoto/feed.atom"],
     twitterUsername: "wokamoto",
     githubUsername: "wokamoto"
   },
   {
-    name: "JOTAKI, Taisuke",
+    name: "JOTAKI Taisuke",
     role: "",
     bio: "",
     avatarSrc: "/avatars/amanda.jpg",
@@ -104,7 +104,7 @@ export const members: Member[] = [
     name: "Shifter Official",
     role: "",
     bio: "",
-    avatarSrc: "/avatars/alexandria.jpg",
+    avatarSrc: "https://gravatar.com/avatar/9a5a3f1e26dff03a5ce557371663d0a6?s=400&d=robohash&r=x",
     sources: [
       "https://getshifter.io/feed/atom"
     ],
@@ -113,7 +113,7 @@ export const members: Member[] = [
     name: "AMIMOTO Official",
     role: "",
     bio: "",
-    avatarSrc: "/avatars/alexandria.jpg",
+    avatarSrc: "https://gravatar.com/avatar/88fce0137a0e5b8bd0dd1cfcc813374a?s=400&d=robohash&r=x",
     sources: [
       "https://amimoto-ami.com/feed/atom",
       "https://ja.amimoto-ami.com/feed/atom"
@@ -123,7 +123,7 @@ export const members: Member[] = [
     name: "Digitalcube Official",
     role: "",
     bio: "",
-    avatarSrc: "/avatars/alexandria.jpg",
+    avatarSrc: "https://gravatar.com/avatar/b69de28ebe9d4403b29ec9c9a544ffdc?s=400&d=robohash&r=x",
     sources: [
       "https://labworks.digitalcube.jp/feed/atom",
       "https://digitalcube.jp/feed/atom",
