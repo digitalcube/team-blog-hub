@@ -10,8 +10,14 @@
 
 [チーム個々人のテックブログをRSSで集約するサイトを作った →](https://zenn.dev/catnose99/articles/cb72a73368a547756862)
 
-## Demo
-https://team-blog-hub.vercel.app
+
+## プロフィール画像について
+
+GravaterのURLをはめ込んでいます。
+https://vinicius73.github.io/gravatar-url-generator/#/
+でURLを生成して、`members.ts`の`avatarSrc`に入れてください。
+
+
 
 ## Development
 ```bash
