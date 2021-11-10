@@ -16,19 +16,6 @@ export const members: Member[] = [
     websiteUrl: "https://qiita.com/gatespace.com",
   },
   {
-    name: "Hidetaka Okamoto",
-    role: "Developer",
-    bio: "AWS Samurai 2017 Alexa Champions",
-    avatarSrc: "https://gravatar.com/avatar/1bc313f6d1b9ad1964abe649ccf3bc4f?s=400&d=robohash&r=x",
-    sources: [
-      "https://qiita.com/motchi0214/feed.atom",
-      "https://wp-kyoto.net/feed",
-      "https://zenn.dev/hideokamoto/feed/"
-    ],
-    twitterUsername: "hide__dev",
-    githubUsername: 'hideokamoto'
-  },
-  {
     name: "Wokamoto",
     role: "",
     bio: "",
@@ -45,15 +32,6 @@ export const members: Member[] = [
     sources: ["https://wp.tekapo.com/feed/atom"],
     twitterUsername: "wokamoto",
     githubUsername: "wokamoto"
-  },
-  {
-    name: "Shusei Toda",
-    role: "",
-    bio: "",
-    avatarSrc: "/avatars/amanda.jpg",
-    sources: ["https://shuseitoda.com/feed/atom"],
-    twitterUsername: "",
-    githubUsername: ""
   },
   {
     name: "plasticdreams",
