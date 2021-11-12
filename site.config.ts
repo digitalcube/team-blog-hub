@@ -1,8 +1,8 @@
 export const config = {
   siteMeta: {
-    title: "Team Blog Hub",
+    title: "Digitalcube Blog Hub",
     teamName: "Digitalcube",
-    description: "RSS based blog starter kit for teams.",
+    description: "RSS based blog.",
   },
   siteRoot:
     process.env.NODE_ENV === "production"
