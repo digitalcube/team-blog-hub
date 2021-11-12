@@ -114,7 +114,7 @@ export const members: Member[] = [
 		name: "Digitalcube Official",
 		role: "",
 		bio: "",
-		avatarSrc: "/avatars/digitalcube.jpg",
+		avatarSrc: "/avatars/digitalcube.png",
 		sources: [
 			"https://labworks.digitalcube.jp/feed",
 			"https://www.digitalcube.jp/feed",
