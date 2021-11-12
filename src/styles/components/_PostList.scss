@@ -71,7 +71,6 @@ $side-padding-sm: 1rem;
   font-weight: bold;
   color: #fff;
   background: var(--color-primary-background);
-  border-radius: 12px;
   @include mq(sm) {
     right: 0;
     top: 0;
